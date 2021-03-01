@@ -1,0 +1,7 @@
+name: Pioche3x3
+main: fr.jayrex.pioche.Main
+version: 1.0
+author: Jayrex
+api-version: 1.16
+depend: [Lands]
+description: 3x3 pioche
